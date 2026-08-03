@@ -1,3 +1,4 @@
+import os
 import logging
 from logging.handlers import RotatingFileHandler
 
@@ -14,7 +15,7 @@ SHORT_TUT = "https://t.me/Infinix_Tutorial/10"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "Token"
+TOKEN = os.getenv("TOKEN")
 API_ID = "21446955"
 API_HASH = "e6f34a6186963663342b88b88c2b4750"
 WORKERS = 5
