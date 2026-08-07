@@ -21,7 +21,7 @@ API_HASH = "e6f34a6186963663342b88b88c2b4750"
 WORKERS = 5
 
 DB_URI = "mongodb+srv://souravagarwal14092007:szXRs8g7fErCnn4@cluster0.xlsbf3o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-DB_NAME = "Cluster0"
+DB_NAME = "Sephra"
 
 FSUBS = [] # Temporarily disabled so bot can run locally without being an admin in the channel
 # Database Channel (Primary)
