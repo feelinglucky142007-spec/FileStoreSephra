@@ -16,8 +16,8 @@ SHORT_TUT = "https://t.me/Infinix_Tutorial/10"
 # Bot Configuration
 SESSION = "yato"
 TOKEN = os.getenv("TOKEN")
-API_ID = os.getenv("Api")
-API_HASH = os.getenv("Hash")
+API_ID = 21223629
+API_HASH = "920eaaf96c0ed560371add171ff0e573"
 WORKERS = 5
 
 DB_URI = "mongodb+srv://souravagarwal14092007:szXRs8g7fErCnn4@cluster0.xlsbf3o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
